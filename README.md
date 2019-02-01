@@ -67,6 +67,8 @@ It would be great if you could write up a short summary of how you approached
 the task, and if there are any improvements you would have made if given more
 time.
 
+Please do include the .git folder in your submission so we can see your commit history :)
+
 ## Notes
 
 Ideally this should feel as much like normal development as possible.
