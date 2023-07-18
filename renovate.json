@@ -1,0 +1,1 @@
+{"enabled":false,"labels":["marketpay","renovate"],"packageRules":[{"addLabels":["marketpay"],"matchDepTypes":["minor","patch","pin","digest","major"]}]}
